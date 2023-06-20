@@ -74,7 +74,7 @@ function App() {
        <button type='button' className='prev-btn' onClick={()=>showPerson('moveLeft')}><FaChevronLeft /></button>
        <button type='button' className='next-btn' onClick={()=>showPerson('moveRight')}><FaChevronRight /></button>
        </div>
-       <button type='button' className='btn' onClick={surpriseMe}>Surpise Me</button>
+       <button type='button' className='btn' onClick={surpriseMe}>Surprise Me</button>
 
       </article>
        
